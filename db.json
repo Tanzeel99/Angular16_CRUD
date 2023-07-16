@@ -1,0 +1,20 @@
+{
+  "userlist": [
+    {
+      "firstName": "Tanzeel",
+      "lastName": "Khan",
+      "email": "mtanzeelkhan99@gmail.com",
+      "mobile": 31478345,
+      "gender": "Male",
+      "techStack": "Frontend",
+      "skill": [
+        "HTML",
+        "CSS",
+        "JS",
+        "Angular"
+      ],
+      "dob": "2023-07-10T18:30:00.000Z",
+      "id": 1
+    }
+  ]
+}
